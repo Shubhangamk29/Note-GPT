@@ -4,7 +4,11 @@
 Welcome to the AI SaaS Chatbot project! This is a **full-stack, production-ready, secure, and scalable** AI chatbot web application inspired by ChatGPT. Built with **TypeScript** and the **MERN (MongoDB, Express, React, Node.js)** stack, it integrates OpenAI's GPT-3.5/4 to deliver intelligent, real-time conversations via a sleek modern UI.
 
 ## 🚀 Demo
-
+![Screenshot 2025-06-14 235210](https://github.com/user-attachments/assets/85186aa8-edc4-4939-8969-65fbfccc4d44)
+![Screenshot 2025-06-14 232844](https://github.com/user-attachments/assets/358b8ed2-5f8e-4791-9333-0c5b99d1c291)
+![Screenshot 2025-06-14 232513](https://github.com/user-attachments/assets/2bcc2bd2-5975-4eca-aaaa-3094be2fd33b)
+![Screenshot 2025-06-14 233005](https://github.com/user-attachments/assets/9cf42047-d56a-4c2b-a1cb-3eaab03ffa62)
+![Screenshot 2025-06-14 232556](https://github.com/user-attachments/assets/cd92f6db-05ab-4923-93e6-b2630f0eecac)
 
 
 ## 🧰 Tech Stack

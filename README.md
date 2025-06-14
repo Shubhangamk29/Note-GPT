@@ -93,8 +93,6 @@ npm run dev
 Create a .env file in /server with:
 
 env
-Copy
-Edit
 PORT=5000
 MONGODB_URL=your_mongo_connection
 JWT_SECRET=your_jwt_secret

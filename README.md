@@ -32,16 +32,17 @@ Welcome to the AI SaaS Chatbot project! This is a **full-stack, production-ready
 
 ## 📁 Project Structure
 
-/client → Frontend React app
-/server → Backend Node/Express API (TypeScript)
+```bash
+/client          → Frontend React app
+/server          → Backend Node/Express API (TypeScript)
 │
 ├── /src
-│ ├── /controllers
-│ ├── /models
-│ ├── /routes
-│ ├── /middlewares
-│ ├── /config
-│ └── /utils
+│   ├── /controllers     → Route handler logic
+│   ├── /models          → Mongoose schemas (User, Chat, etc.)
+│   ├── /routes          → Express route definitions
+│   ├── /middlewares     → Auth, validation, error handling
+│   ├── /config          → DB, environment setup
+│   └── /utils           → Helper functions/utilities
 
 
 
